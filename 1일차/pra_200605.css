@@ -1,0 +1,27 @@
+header {
+  margin:20px;
+  background-color:#f0fa0a;
+  padding:20px;
+}
+.container{
+  margin:0px auto;
+  background-color:#aaffff;
+}
+nav{
+  margin:20px;
+  width:200px;
+  background:#ff98aa;
+  float:left;
+}
+aside{
+  margin:20px;
+  width:300px;
+  background:#9aaafa;
+  float:right;
+}
+footer{
+  clear:both;
+  margin:20px;
+  padding:20px;
+  background:#ff90f0;
+}
