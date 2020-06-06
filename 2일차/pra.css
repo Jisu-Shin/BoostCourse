@@ -1,0 +1,13 @@
+#jisu{
+  font-size:20px;
+}
+div>p:nth-child(1){
+  color:red;
+  font-size:2em;
+}
+div>p:nth-child(3){
+  color:blue;
+}
+div>p:nth-of-type(1){
+  background-color:#ff7;
+}
