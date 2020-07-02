@@ -3,8 +3,8 @@
 ----
 
 ## 1일차 :: 20.06.05
-[html layout 해보기](https://github.com/Jisu-Shin/boostcourse/tree/master/1%EC%9D%BC%EC%B0%A8)
 [html layout 해보기](https://github.com/Jisu-Shin/BoostCourse/tree/master/1%EC%9D%BC%EC%B0%A8)
+
 ---
 
 ## 2일차 :: 20.06.06
