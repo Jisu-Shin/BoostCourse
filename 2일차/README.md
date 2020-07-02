@@ -6,5 +6,5 @@
 * css 에서 동일한 선택자면 하위에 따라 값이 바뀐다
 * 구체적일 경우 / class보다 id 일 경우 css 경쟁에서 이긴다
 * cascading :: id > class > element
-* div>p:nth-child(2) : div ^n번 자식^ 중 p에 해당하는 것
+* div>p:nth-child(2) : div **n번 자식** 중 p에 해당하는 것
 * div>p:nth-of-type(1) : div p에 해당되는 자식 중 n번인 것
