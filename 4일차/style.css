@@ -1,0 +1,52 @@
+li{
+  list-style:none;
+}
+
+header{
+  background-color:#afa;
+}
+
+#wrap{
+  overflow:auto;
+  margin-top:5%;
+  margin-bottom:5%;
+  
+}
+.left, .right,.realright{
+  float:left;
+}
+
+.left{
+  width:20%;
+  background-color:#8af;
+  margin-right:5%;
+  text-align:center;
+}
+
+.right{
+  width:50%;
+  background-color:#3dd;
+  text-align:center;
+}
+
+.realright{
+  width:20%;
+  background-color:#df9;
+  margin-left:5%
+}
+
+.right>h2{
+  position:relative;
+}
+
+.emotion{
+  position:absolute;
+  1top:0px;
+  right:5%;
+  color:#fff;
+}
+
+footer{
+  background-color:#a0f;
+  clear:left; //위로 올라가지마
+}

@@ -1,7 +1,9 @@
 # Day3 : 20-06-30
 * display: (block,inline)
   > 기본값은 block 이다
+
   inline은 상단메뉴처럼 오른쪽으로 나열한다.
+
   inline은 설정을 줘도 적용이 안된다
 * position:(static,relative,absolute,fixed)
   > relative는 사실 좀 헷갈린다.. static과 차이점이 뭐지
