@@ -13,4 +13,4 @@
 * Servlet 3.0 이상은 web.xml 파일 사용하지 않음 // 이하는 사용함
   > Spring을 사용할때 Servlet 3.0 인데도 web.xml 파일이 필요할 수 있음
 
-* out.print(); / out.println(); 이나 똑같다 안에 '<br>' 을 넣어야한다
+* out.print(); / out.println(); 이나 똑같다 안에 `<br>` 을 넣어야한다
