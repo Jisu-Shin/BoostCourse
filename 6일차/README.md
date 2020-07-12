@@ -1,4 +1,4 @@
-# Day5 : 20-07-12
+# Day6 : 20-07-12
 * HttpServlet은 **하나의 객체만** 생성한다
 
 * HttpServlet은 init() -> service() -> destroy() Lifecycle를 갖는다
